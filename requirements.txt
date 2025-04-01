@@ -1,0 +1,7 @@
+numpy 
+matplotlib 
+scikit-image 
+opencv-python 
+scikit-learn
+optuna
+cuml-cu12
