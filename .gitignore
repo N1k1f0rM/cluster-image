@@ -1,6 +1,8 @@
 img/*
 !img/lady.jpeg
+!img/color_transform.png
+!img/clusters_example.png
+!img/contours_example.png
 .venv/
-Clusters Boundaries_screenshot_27.03.2025.png
 .idea/
 .DS_Store
